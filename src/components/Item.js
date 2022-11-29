@@ -13,10 +13,10 @@ const Item = ({item}) => {
                     return (
                     <div className="item-container">
                      <img className="item-image" src={item.img}></img>
-                     <span className="item-name">{item.name}</span>
-                     <span className="item-desc">{item.description}</span>
-                     <span className="item-price">{item.price}</span>
-                     <span className="item-shop">{item.shop}</span>
+                     <span className="item-text">{item.name}</span>
+                     <span className="item-text">{item.description}</span>
+                     <span className="item-text">{item.price}</span>
+                     <span className="item-text">{item.shop}</span>
                      <img className="item-sec-image" src={item.secondaryImg}></img>   
                     </div>)}
                 })}

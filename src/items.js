@@ -10,7 +10,7 @@ const items = [
      shop:"NIKE - TLV FASHION MALL", img:"https://www.kicksonfire.com/wp-content/uploads/2022/08/a-ma-maniere-air-jordan-4-13.jpeg",
       secondaryImg:"https://sneakernews.com/wp-content/uploads/2022/11/A-Ma-Maniere-Air-Jordan-4-DV6773-220-5.jpg"},
     {id:4, name:"New Balance 2002R", description:"Protection Pack Light Arctic Grey Purple",price:"150$",
-     shop:"", img:"https://storage.googleapis.com/hypeclothinga-media/__sized__/products/New_Balance_2002R_Protection_Pack_Light_Arctic_Grey_Purple_Hype_clothinga_Limited_Edition.003-thumbnail-1080x1080-70.jpeg",
+     shop:"", img:"https://sneakernews.com/wp-content/uploads/2022/03/new-balance-2002r-protection-pack-purple-m2002rdi-1.jpg",
      secondaryImg:"https://preview.redd.it/w2c-2002r-protection-pack-purple-v0-7t3eohsgvrv91.jpg?auto=webp&s=dcad93271902399fc1188b96eed6e9f925fee7c1"},
     {id:5, name:"Crocs Pollex Clog", description:"by Salehe Bembury Sasquatch",price:"85$",
      shop:"SNEAKERBOX TLV",
