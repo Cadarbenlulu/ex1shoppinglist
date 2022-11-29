@@ -3,8 +3,16 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { createBrowserRouter } from 'react-router-dom';
+import Item from "./components/Item.js"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+const router = createBrowserRouter([
+  {
+    path: "item/:itemId",
+    element: <Item />
+  }
+])
 root.render(
   <React.StrictMode>
     <App />

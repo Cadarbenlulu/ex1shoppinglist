@@ -1,0 +1,22 @@
+.item-text {
+    font-size: 18px;
+    font-family:'Lucida Sans';
+    padding: 10px;
+    
+  }
+
+  .item-image {
+    float: left;
+    max-width: 300px;
+    max-height: 200px;
+    padding: 10px;
+    border-radius: 20px;
+}
+  
+  .item-sec-image {
+    float: right;
+    max-width: 300px;
+    max-height: 200px;
+    padding: 10px;
+    border-radius: 20px;
+}

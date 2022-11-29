@@ -1,0 +1,26 @@
+.item-container {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffff;
+    margin: 2%;
+    border-radius: 15px;
+
+  }
+
+  .item-name {
+    font-size: 14px;
+    font-family:'Lucida Sans';
+  }
+
+  .item-price {
+    padding: 10px;
+  }
+
+  .item-image {
+    float: left;
+    max-width: 200px;
+    max-height: 133px;
+    padding: 10px;
+    border-radius: 20px;
+}
